@@ -1,0 +1,9 @@
+INFO:     Started server process [1020]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8002 (Press CTRL+C to quit)
+INFO:     127.0.0.1:43596 - "POST /api/v1/zpd/next HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43604 - "POST /api/v1/zpd/next HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43618 - "POST /api/v1/assessments/register HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43624 - "POST /api/v1/assessments/register HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43630 - "POST /api/v1/assessments/register HTTP/1.1" 403 Forbidden

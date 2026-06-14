@@ -1,0 +1,39 @@
+{
+  "login": {
+    "title": "Mô Phỏng Đăng Nhập",
+    "subtitle": "Chọn vai trò của bạn để truy cập. Đây là mô phỏng xác thực.",
+    "learner_btn": "Đăng nhập Học Viên",
+    "tutor_btn": "Đăng nhập Gia Sư",
+    "supporter_btn": "Đăng nhập Người Hỗ Trợ"
+  },
+  "common": {
+    "logout": "Đăng xuất",
+    "settings": "Cài đặt",
+    "theme": "Giao diện",
+    "language": "Ngôn ngữ",
+    "streak": "{{count}} Ngày Chuỗi!",
+    "streak_zero": "Bắt đầu chuỗi mới!"
+  },
+  "supporter": {
+    "portal_title": "Cổng Phụ Huynh",
+    "safety_title": "An Toàn & Giám Sát",
+    "check_in": "Điểm danh hàng ngày",
+    "goals": "Mục tiêu hiện tại",
+    "conversation_starters": "Gợi ý trò chuyện",
+    "mood_tracker": "Theo dõi cảm xúc",
+    "consistency": "Điểm kiên trì"
+  },
+  "tutor": {
+    "dashboard_title": "Trợ lý Gia Sư",
+    "cohort": "Lớp của bạn",
+    "review_queue": "Hàng chờ duyệt",
+    "approve": "Duyệt",
+    "reject": "Từ chối"
+  },
+  "learner": {
+    "dashboard_title": "Cổng Học Viên",
+    "start_story": "Bắt đầu Cầu chuyện",
+    "transforming": "Đang chuyển đổi...",
+    "practice": "Luyện tập"
+  }
+}

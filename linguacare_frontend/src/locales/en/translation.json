@@ -1,0 +1,39 @@
+{
+  "login": {
+    "title": "Login Simulator",
+    "subtitle": "Select your role to enter the app. This simulates authentication.",
+    "learner_btn": "Login as Learner",
+    "tutor_btn": "Login as Tutor",
+    "supporter_btn": "Login as Supporter"
+  },
+  "common": {
+    "logout": "Logout",
+    "settings": "Settings",
+    "theme": "Theme",
+    "language": "Language",
+    "streak": "{{count}} Day Streak!",
+    "streak_zero": "Start your streak!"
+  },
+  "supporter": {
+    "portal_title": "Parent Portal",
+    "safety_title": "Safety & Monitoring",
+    "check_in": "Daily Check-in",
+    "goals": "Active Goals",
+    "conversation_starters": "Conversation Starters",
+    "mood_tracker": "Mood Tracker",
+    "consistency": "Consistency Score"
+  },
+  "tutor": {
+    "dashboard_title": "Tutor Copilot",
+    "cohort": "Your Cohort",
+    "review_queue": "Review Queue",
+    "approve": "Approve",
+    "reject": "Reject"
+  },
+  "learner": {
+    "dashboard_title": "Learner Portal",
+    "start_story": "Start Story",
+    "transforming": "Transforming...",
+    "practice": "Practice"
+  }
+}

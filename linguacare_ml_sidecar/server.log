@@ -1,0 +1,16 @@
+/mnt/d/Documents/Studies/Bachelor/UEL/Sem253/KienTap/linguacare_mvp/linguacare_ml_sidecar/main.py:6: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+2026-06-14 04:18:29,107 [INFO] Gemini API configured for cloud fallback.
+INFO:     Started server process [1020]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-06-14 04:18:30,907 [INFO] Processing test_audio.wav with Gemini API...
+INFO:     127.0.0.1:50490 - "POST /api/v1/parse-material HTTP/1.1" 200 OK
